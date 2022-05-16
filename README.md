@@ -4,7 +4,7 @@ Generating Ganyu from Genshin Impact with GAN
 dataset source: https://www.kaggle.com/datasets/andy8744/ganyu-genshin-impact-anime-faces-gan-training
 
 Input-Output comparision:
-<p float="left">
+<p float="center">
   <img src="/images/ganyu_original.jpg" width="500" />
   <img src="/images/ganyu_generated.jpg" width="500" /> 
 </p>
